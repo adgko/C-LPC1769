@@ -1,0 +1,442 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc175x_6x.o (SystemInit)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+                              /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o) (__aeabi_ldivmod)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/T4-displays.o
+ .text          0x0000000000000000        0x0 ./src/T4-displays.o
+ .data          0x0000000000000000        0x0 ./src/T4-displays.o
+ .bss           0x0000000000000000        0x0 ./src/T4-displays.o
+ .rodata.FIO0DIR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO0SET
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO0CLR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO0PIN
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO2DIR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO2SET
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO2PIN
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO2CLR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO3DIR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO3CLR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.FIO3SET
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.ISER0  0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.PCONP  0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.IO0IntEnR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.IO0IntClr
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.PINSEL4
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.PINMODE4
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.EXTMODE
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.EXTPOLAR
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .rodata.EXTINT
+                0x0000000000000000        0x4 ./src/T4-displays.o
+ .group         0x0000000000000000        0xc ./src/cr_startup_lpc175x_6x.o
+ .text          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x0000000000000000      0xa6c ./src/cr_startup_lpc175x_6x.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .text          0x0000000000000000        0x0 ./src/crp.o
+ .data          0x0000000000000000        0x0 ./src/crp.o
+ .bss           0x0000000000000000        0x0 ./src/crp.o
+ .debug_macro   0x0000000000000000      0xa6c ./src/crp.o
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x0000000000000000        0x0 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data          0x0000000000000000        0x0 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x0000000000000000        0x0 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xb8 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x10 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x12d /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x5b2 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x1c /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x2e /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x18 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x7af /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x2c7 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x0000000000000000       0x26 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x0000000000000000      0x174 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x0000000000000000        0x2 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x0000000000000000 0x0000000000080000 xr
+RamLoc32         0x0000000010000000 0x0000000000008000 xrw
+RamAHB32         0x000000002007c000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/T4-displays.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a
+START GROUP
+LOAD /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a
+LOAD /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a
+END GROUP
+                0x0000000000000000                __base_MFlash512 = 0x0
+                0x0000000000000000                __base_Flash = 0x0
+                0x0000000000080000                __top_MFlash512 = 0x80000
+                0x0000000000080000                __top_Flash = 0x80000
+                0x0000000010000000                __base_RamLoc32 = 0x10000000
+                0x0000000010000000                __base_RAM = 0x10000000
+                0x0000000010008000                __top_RamLoc32 = 0x10008000
+                0x0000000010008000                __top_RAM = 0x10008000
+                0x000000002007c000                __base_RamAHB32 = 0x2007c000
+                0x000000002007c000                __base_RAM2 = 0x2007c000
+                0x0000000020084000                __top_RamAHB32 = 0x20084000
+                0x0000000020084000                __top_RAM2 = 0x20084000
+
+.text           0x0000000000000000      0x860
+ FILL mask 0xff
+                0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x0000000000000000                g_pfnVectors
+                0x00000000000000cc                . = ALIGN (0x4)
+                0x00000000000000cc                __section_table_start = .
+                0x00000000000000cc                __data_section_table = .
+                0x00000000000000cc        0x4 LONG 0x860 LOADADDR (.data)
+                0x00000000000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x00000000000000d4        0x4 LONG 0x0 SIZEOF (.data)
+                0x00000000000000d8        0x4 LONG 0x860 LOADADDR (.data_RAM2)
+                0x00000000000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x00000000000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x00000000000000e4                __data_section_table_end = .
+                0x00000000000000e4                __bss_section_table = .
+                0x00000000000000e4        0x4 LONG 0x10000000 ADDR (.bss)
+                0x00000000000000e8        0x4 LONG 0xc SIZEOF (.bss)
+                0x00000000000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x00000000000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x00000000000000f4                __bss_section_table_end = .
+                0x00000000000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x00000000000000f4      0x12c ./src/cr_startup_lpc175x_6x.o
+                0x00000000000000f4                data_init
+                0x0000000000000136                bss_init
+                0x000000000000016c                ResetISR
+                0x00000000000001e4                NMI_Handler
+                0x00000000000001ea                HardFault_Handler
+                0x00000000000001f0                MemManage_Handler
+                0x00000000000001f6                BusFault_Handler
+                0x00000000000001fc                UsageFault_Handler
+                0x0000000000000202                SVC_Handler
+                0x0000000000000208                DebugMon_Handler
+                0x000000000000020e                PendSV_Handler
+                0x0000000000000214                SysTick_Handler
+                0x000000000000021a                TIMER2_IRQHandler
+                0x000000000000021a                RIT_IRQHandler
+                0x000000000000021a                I2C0_IRQHandler
+                0x000000000000021a                USBActivity_IRQHandler
+                0x000000000000021a                PWM1_IRQHandler
+                0x000000000000021a                I2C1_IRQHandler
+                0x000000000000021a                EINT2_IRQHandler
+                0x000000000000021a                UART1_IRQHandler
+                0x000000000000021a                CANActivity_IRQHandler
+                0x000000000000021a                TIMER3_IRQHandler
+                0x000000000000021a                UART0_IRQHandler
+                0x000000000000021a                IntDefaultHandler
+                0x000000000000021a                PLL0_IRQHandler
+                0x000000000000021a                CAN_IRQHandler
+                0x000000000000021a                PLL1_IRQHandler
+                0x000000000000021a                SSP0_IRQHandler
+                0x000000000000021a                I2S_IRQHandler
+                0x000000000000021a                I2C2_IRQHandler
+                0x000000000000021a                RTC_IRQHandler
+                0x000000000000021a                TIMER0_IRQHandler
+                0x000000000000021a                SPI_IRQHandler
+                0x000000000000021a                EINT1_IRQHandler
+                0x000000000000021a                TIMER1_IRQHandler
+                0x000000000000021a                UART2_IRQHandler
+                0x000000000000021a                ADC_IRQHandler
+                0x000000000000021a                SSP1_IRQHandler
+                0x000000000000021a                USB_IRQHandler
+                0x000000000000021a                BOD_IRQHandler
+                0x000000000000021a                WDT_IRQHandler
+                0x000000000000021a                QEI_IRQHandler
+                0x000000000000021a                DMA_IRQHandler
+                0x000000000000021a                UART3_IRQHandler
+                0x000000000000021a                MCPWM_IRQHandler
+                0x000000000000021a                ENET_IRQHandler
+                0x00000000000002fc                . = 0x2fc
+ *fill*         0x0000000000000220       0xdc ff
+                0x00000000000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x00000000000002fc        0x4 ./src/crp.o
+                0x00000000000002fc                CRP_WORD
+                0x0000000000000300                PROVIDE (__CRP_WORD_END__, .)
+                0x0000000000000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.main     0x0000000000000300      0x134 ./src/T4-displays.o
+                0x0000000000000300                main
+ .text.confEINT3
+                0x0000000000000434       0x2c ./src/T4-displays.o
+                0x0000000000000434                confEINT3
+ .text.confEINT0
+                0x0000000000000460       0x84 ./src/T4-displays.o
+                0x0000000000000460                confEINT0
+ .text.demora   0x00000000000004e4       0x24 ./src/T4-displays.o
+                0x00000000000004e4                demora
+ .text.unidades
+                0x0000000000000508       0xf4 ./src/T4-displays.o
+                0x0000000000000508                unidades
+ .text.decenas  0x00000000000005fc       0xfc ./src/T4-displays.o
+                0x00000000000005fc                decenas
+ .text.EINT0_IRQHandler
+                0x00000000000006f8       0x44 ./src/T4-displays.o
+                0x00000000000006f8                EINT0_IRQHandler
+ .text.EINT3_IRQHandler
+                0x000000000000073c       0x44 ./src/T4-displays.o
+                0x000000000000073c                EINT3_IRQHandler
+ .text.SystemInit
+                0x0000000000000780       0xdc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x0000000000000780                SystemInit
+ .text.__weak_main
+                0x000000000000085c        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+                0x000000000000085c                __main
+                0x000000000000085c                __weak_main
+ *(.rodata .rodata.* .constdata .constdata.*)
+                0x0000000000000860                . = ALIGN (0x4)
+
+.glue_7         0x0000000000000860        0x0
+ .glue_7        0x0000000000000860        0x0 linker stubs
+
+.glue_7t        0x0000000000000860        0x0
+ .glue_7t       0x0000000000000860        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000860        0x0
+ .vfp11_veneer  0x0000000000000860        0x0 linker stubs
+
+.v4_bx          0x0000000000000860        0x0
+ .v4_bx         0x0000000000000860        0x0 linker stubs
+
+.iplt           0x0000000000000860        0x0
+ .iplt          0x0000000000000860        0x0 ./src/T4-displays.o
+
+.rel.dyn        0x0000000000000860        0x0
+ .rel.iplt      0x0000000000000860        0x0 ./src/T4-displays.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000000860                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000000860                __exidx_end = .
+                0x0000000000000860                _etext = .
+
+.data_RAM2      0x000000002007c000        0x0 load address 0x0000000000000860
+ FILL mask 0xff
+                [!provide]                        PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x000000002007c000                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x0000000010000000        0x0
+ *(.bss.$RESERVED*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _end_uninit_RESERVED = .
+
+.data           0x0000000010000000        0x0 load address 0x0000000000000860
+ FILL mask 0xff
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _edata = .
+
+.igot.plt       0x0000000010000000        0x0 load address 0x0000000000000860
+ .igot.plt      0x0000000010000000        0x0 ./src/T4-displays.o
+
+.bss_RAM2       0x000000002007c000        0x0
+                [!provide]                        PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x000000002007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                        PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x0000000010000000        0xc
+                0x0000000010000000                _bss = .
+ *(.bss*)
+ .bss.valoru    0x0000000010000000        0x4 ./src/T4-displays.o
+                0x0000000010000000                valoru
+ .bss.valord    0x0000000010000004        0x4 ./src/T4-displays.o
+                0x0000000010000004                valord
+ .bss.cuenta    0x0000000010000008        0x4 ./src/T4-displays.o
+                0x0000000010000008                cuenta
+ *(COMMON)
+                0x000000001000000c                . = ALIGN (0x4)
+                0x000000001000000c                _ebss = .
+                [!provide]                        PROVIDE (end, .)
+
+.noinit_RAM2    0x000000002007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x000000002007c000                . = ALIGN (0x4)
+
+.noinit         0x000000001000000c        0x0
+                0x000000001000000c                _noinit = .
+ *(.noinit*)
+                0x000000001000000c                . = ALIGN (0x4)
+                0x000000001000000c                _end_noinit = .
+                [!provide]                        PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xffffffffefff74de                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x0000000000000000                _image_start = LOADADDR (.text)
+                0x0000000000000860                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000000860                _image_size = (_image_end - _image_start)
+OUTPUT(T4-displays.axf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0x938
+ .debug_info    0x0000000000000000      0x357 ./src/T4-displays.o
+ .debug_info    0x0000000000000357      0x255 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000000000005ac       0x3f ./src/crp.o
+ .debug_info    0x00000000000005eb      0x34d /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_abbrev   0x0000000000000000      0x39b
+ .debug_abbrev  0x0000000000000000      0x149 ./src/T4-displays.o
+ .debug_abbrev  0x0000000000000149      0x114 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x000000000000025d       0x36 ./src/crp.o
+ .debug_abbrev  0x0000000000000293      0x108 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_aranges  0x0000000000000000      0x118
+ .debug_aranges
+                0x0000000000000000       0x58 ./src/T4-displays.o
+ .debug_aranges
+                0x0000000000000058       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x00000000000000d8       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000000000000f0       0x28 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_ranges   0x0000000000000000       0xd0
+ .debug_ranges  0x0000000000000000       0x48 ./src/T4-displays.o
+ .debug_ranges  0x0000000000000048       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x00000000000000b8       0x18 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_macro    0x0000000000000000     0x292f
+ .debug_macro   0x0000000000000000       0x7e ./src/T4-displays.o
+ .debug_macro   0x000000000000007e      0xa6c ./src/T4-displays.o
+ .debug_macro   0x0000000000000aea       0x1c ./src/T4-displays.o
+ .debug_macro   0x0000000000000b06       0x2e ./src/T4-displays.o
+ .debug_macro   0x0000000000000b34       0x10 ./src/T4-displays.o
+ .debug_macro   0x0000000000000b44      0x12d ./src/T4-displays.o
+ .debug_macro   0x0000000000000c71      0x5b2 ./src/T4-displays.o
+ .debug_macro   0x0000000000001223       0x18 ./src/T4-displays.o
+ .debug_macro   0x000000000000123b      0x7af ./src/T4-displays.o
+ .debug_macro   0x00000000000019ea      0x2c7 ./src/T4-displays.o
+ .debug_macro   0x0000000000001cb1       0x82 ./src/T4-displays.o
+ .debug_macro   0x0000000000001d33       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x0000000000001d50       0x1a ./src/crp.o
+ .debug_macro   0x0000000000001d6a       0x34 ./src/crp.o
+ .debug_macro   0x0000000000001d9e      0x12b /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000001ec9      0xa66 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_line     0x0000000000000000      0x665
+ .debug_line    0x0000000000000000      0x32e ./src/T4-displays.o
+ .debug_line    0x000000000000032e       0xd3 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x0000000000000401       0x79 ./src/crp.o
+ .debug_line    0x000000000000047a      0x1eb /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_str      0x0000000000000000     0x91de
+ .debug_str     0x0000000000000000     0x89ee ./src/T4-displays.o
+                                       0x8a6f (size before relaxing)
+ .debug_str     0x00000000000089ee      0x1d6 ./src/cr_startup_lpc175x_6x.o
+                                       0x2ee5 (size before relaxing)
+ .debug_str     0x0000000000008bc4       0xe9 ./src/crp.o
+                                       0x2df2 (size before relaxing)
+ .debug_str     0x0000000000008cad      0x531 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                                       0x88f9 (size before relaxing)
+
+.comment        0x0000000000000000       0x7e
+ .comment       0x0000000000000000       0x7e ./src/T4-displays.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f ./src/cr_startup_lpc175x_6x.o
+ .comment       0x000000000000007e       0x7f ./src/crp.o
+ .comment       0x000000000000007e       0x7f /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x0000000000000000       0x31
+ .ARM.attributes
+                0x0000000000000000       0x33 ./src/T4-displays.o
+ .ARM.attributes
+                0x0000000000000033       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x0000000000000066       0x33 ./src/crp.o
+ .ARM.attributes
+                0x0000000000000099       0x33 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000000000000cc       0x33 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+
+.debug_frame    0x0000000000000000      0x2c8
+ .debug_frame   0x0000000000000000      0x11c ./src/T4-displays.o
+ .debug_frame   0x000000000000011c      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x000000000000028c       0x3c /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)

@@ -1,0 +1,437 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc175x_6x.o (SystemInit)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+                              /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o) (__aeabi_ldivmod)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./src/cr_startup_lpc175x_6x.o
+ .text          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .text          0x0000000000000000        0x0 ./src/crp.o
+ .data          0x0000000000000000        0x0 ./src/crp.o
+ .bss           0x0000000000000000        0x0 ./src/crp.o
+ .debug_macro   0x0000000000000000      0xa6c ./src/crp.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .group         0x0000000000000000        0xc ./src/joystick.o
+ .text          0x0000000000000000        0x0 ./src/joystick.o
+ .data          0x0000000000000000        0x0 ./src/joystick.o
+ .bss           0x0000000000000000        0x0 ./src/joystick.o
+ .rodata.ISER0  0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.PCONP  0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.PCLKSEL0
+                0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.AD0CR  0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.PINSEL1
+                0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.PINMODE1
+                0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.ADINTEN0
+                0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.AD0GDR
+                0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.T0PR   0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.T0MCR  0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.T0CR   0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.T0IR   0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.T0MR0  0x0000000000000000        0x4 ./src/joystick.o
+ .rodata.T0TCR  0x0000000000000000        0x4 ./src/joystick.o
+ .text.delay    0x0000000000000000       0x3c ./src/joystick.o
+ .debug_macro   0x0000000000000000      0xa6c ./src/joystick.o
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0xc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x0000000000000000        0x0 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data          0x0000000000000000        0x0 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x0000000000000000        0x0 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xb8 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x10 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x12d /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x5b2 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x1c /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x2e /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x18 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x7af /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x2c7 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x0000000000000000       0x26 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x0000000000000000      0x174 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x0000000000000000        0x2 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x0000000000000000 0x0000000000080000 xr
+RamLoc32         0x0000000010000000 0x0000000000008000 xrw
+RamAHB32         0x000000002007c000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/joystick.o
+LOAD /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a
+START GROUP
+LOAD /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a
+LOAD /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libcr_eabihelpers.a
+END GROUP
+                0x0000000000000000                __base_MFlash512 = 0x0
+                0x0000000000000000                __base_Flash = 0x0
+                0x0000000000080000                __top_MFlash512 = 0x80000
+                0x0000000000080000                __top_Flash = 0x80000
+                0x0000000010000000                __base_RamLoc32 = 0x10000000
+                0x0000000010000000                __base_RAM = 0x10000000
+                0x0000000010008000                __top_RamLoc32 = 0x10008000
+                0x0000000010008000                __top_RAM = 0x10008000
+                0x000000002007c000                __base_RamAHB32 = 0x2007c000
+                0x000000002007c000                __base_RAM2 = 0x2007c000
+                0x0000000020084000                __top_RamAHB32 = 0x20084000
+                0x0000000020084000                __top_RAM2 = 0x20084000
+
+.text           0x0000000000000000      0x904
+ FILL mask 0xff
+                0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x0000000000000000                g_pfnVectors
+                0x00000000000000cc                . = ALIGN (0x4)
+                0x00000000000000cc                __section_table_start = .
+                0x00000000000000cc                __data_section_table = .
+                0x00000000000000cc        0x4 LONG 0x904 LOADADDR (.data)
+                0x00000000000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x00000000000000d4        0x4 LONG 0x0 SIZEOF (.data)
+                0x00000000000000d8        0x4 LONG 0x904 LOADADDR (.data_RAM2)
+                0x00000000000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x00000000000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x00000000000000e4                __data_section_table_end = .
+                0x00000000000000e4                __bss_section_table = .
+                0x00000000000000e4        0x4 LONG 0x10000000 ADDR (.bss)
+                0x00000000000000e8        0x4 LONG 0x74 SIZEOF (.bss)
+                0x00000000000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x00000000000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x00000000000000f4                __bss_section_table_end = .
+                0x00000000000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x00000000000000f4      0x12c ./src/cr_startup_lpc175x_6x.o
+                0x00000000000000f4                data_init
+                0x0000000000000136                bss_init
+                0x000000000000016c                ResetISR
+                0x00000000000001e4                NMI_Handler
+                0x00000000000001ea                HardFault_Handler
+                0x00000000000001f0                MemManage_Handler
+                0x00000000000001f6                BusFault_Handler
+                0x00000000000001fc                UsageFault_Handler
+                0x0000000000000202                SVC_Handler
+                0x0000000000000208                DebugMon_Handler
+                0x000000000000020e                PendSV_Handler
+                0x0000000000000214                SysTick_Handler
+                0x000000000000021a                TIMER2_IRQHandler
+                0x000000000000021a                RIT_IRQHandler
+                0x000000000000021a                I2C0_IRQHandler
+                0x000000000000021a                USBActivity_IRQHandler
+                0x000000000000021a                PWM1_IRQHandler
+                0x000000000000021a                I2C1_IRQHandler
+                0x000000000000021a                EINT2_IRQHandler
+                0x000000000000021a                UART1_IRQHandler
+                0x000000000000021a                EINT3_IRQHandler
+                0x000000000000021a                CANActivity_IRQHandler
+                0x000000000000021a                TIMER3_IRQHandler
+                0x000000000000021a                UART0_IRQHandler
+                0x000000000000021a                IntDefaultHandler
+                0x000000000000021a                PLL0_IRQHandler
+                0x000000000000021a                CAN_IRQHandler
+                0x000000000000021a                PLL1_IRQHandler
+                0x000000000000021a                SSP0_IRQHandler
+                0x000000000000021a                I2S_IRQHandler
+                0x000000000000021a                I2C2_IRQHandler
+                0x000000000000021a                RTC_IRQHandler
+                0x000000000000021a                SPI_IRQHandler
+                0x000000000000021a                EINT1_IRQHandler
+                0x000000000000021a                TIMER1_IRQHandler
+                0x000000000000021a                UART2_IRQHandler
+                0x000000000000021a                SSP1_IRQHandler
+                0x000000000000021a                USB_IRQHandler
+                0x000000000000021a                BOD_IRQHandler
+                0x000000000000021a                WDT_IRQHandler
+                0x000000000000021a                QEI_IRQHandler
+                0x000000000000021a                EINT0_IRQHandler
+                0x000000000000021a                DMA_IRQHandler
+                0x000000000000021a                UART3_IRQHandler
+                0x000000000000021a                MCPWM_IRQHandler
+                0x000000000000021a                ENET_IRQHandler
+                0x00000000000002fc                . = 0x2fc
+ *fill*         0x0000000000000220       0xdc ff
+                0x00000000000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x00000000000002fc        0x4 ./src/crp.o
+                0x00000000000002fc                CRP_WORD
+                0x0000000000000300                PROVIDE (__CRP_WORD_END__, .)
+                0x0000000000000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.main     0x0000000000000300       0x40 ./src/joystick.o
+                0x0000000000000300                main
+ .text.TIMER0_IRQHandler
+                0x0000000000000340       0x80 ./src/joystick.o
+                0x0000000000000340                TIMER0_IRQHandler
+ .text.confTMR0
+                0x00000000000003c0       0x8c ./src/joystick.o
+                0x00000000000003c0                confTMR0
+ .text.confADC  0x000000000000044c      0x10c ./src/joystick.o
+                0x000000000000044c                confADC
+ .text.ADC_IRQHandler
+                0x0000000000000558      0x12c ./src/joystick.o
+                0x0000000000000558                ADC_IRQHandler
+ .text.verificarposicion
+                0x0000000000000684      0x100 ./src/joystick.o
+                0x0000000000000684                verificarposicion
+ .text.confGPIO
+                0x0000000000000784       0xa0 ./src/joystick.o
+                0x0000000000000784                confGPIO
+ .text.SystemInit
+                0x0000000000000824       0xdc /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x0000000000000824                SystemInit
+ .text.__weak_main
+                0x0000000000000900        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+                0x0000000000000900                __main
+                0x0000000000000900                __weak_main
+ *(.rodata .rodata.* .constdata .constdata.*)
+                0x0000000000000904                . = ALIGN (0x4)
+
+.glue_7         0x0000000000000904        0x0
+ .glue_7        0x0000000000000904        0x0 linker stubs
+
+.glue_7t        0x0000000000000904        0x0
+ .glue_7t       0x0000000000000904        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000904        0x0
+ .vfp11_veneer  0x0000000000000904        0x0 linker stubs
+
+.v4_bx          0x0000000000000904        0x0
+ .v4_bx         0x0000000000000904        0x0 linker stubs
+
+.iplt           0x0000000000000904        0x0
+ .iplt          0x0000000000000904        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.rel.dyn        0x0000000000000904        0x0
+ .rel.iplt      0x0000000000000904        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000000904                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000000904                __exidx_end = .
+                0x0000000000000904                _etext = .
+
+.data_RAM2      0x000000002007c000        0x0 load address 0x0000000000000904
+ FILL mask 0xff
+                [!provide]                        PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x000000002007c000                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x0000000010000000        0x0
+ *(.bss.$RESERVED*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _end_uninit_RESERVED = .
+
+.data           0x0000000010000000        0x0 load address 0x0000000000000904
+ FILL mask 0xff
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _edata = .
+
+.igot.plt       0x0000000010000000        0x0 load address 0x0000000000000904
+ .igot.plt      0x0000000010000000        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.bss_RAM2       0x000000002007c000        0x0
+                [!provide]                        PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x000000002007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                        PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x0000000010000000       0x74
+                0x0000000010000000                _bss = .
+ *(.bss*)
+ .bss.x         0x0000000010000000        0x4 ./src/joystick.o
+                0x0000000010000000                x
+ .bss.y         0x0000000010000004        0x4 ./src/joystick.o
+                0x0000000010000004                y
+ .bss.canal     0x0000000010000008        0x4 ./src/joystick.o
+                0x0000000010000008                canal
+ .bss.flagmux   0x000000001000000c        0x4 ./src/joystick.o
+                0x000000001000000c                flagmux
+ .bss.promxi    0x0000000010000010        0x4 ./src/joystick.o
+                0x0000000010000010                promxi
+ .bss.promyi    0x0000000010000014        0x4 ./src/joystick.o
+                0x0000000010000014                promyi
+ .bss.promx     0x0000000010000018       0x28 ./src/joystick.o
+                0x0000000010000018                promx
+ .bss.promy     0x0000000010000040       0x28 ./src/joystick.o
+                0x0000000010000040                promy
+ .bss.flagx     0x0000000010000068        0x4 ./src/joystick.o
+                0x0000000010000068                flagx
+ .bss.flagy     0x000000001000006c        0x4 ./src/joystick.o
+                0x000000001000006c                flagy
+ .bss.i.4948    0x0000000010000070        0x4 ./src/joystick.o
+ *(COMMON)
+                0x0000000010000074                . = ALIGN (0x4)
+                0x0000000010000074                _ebss = .
+                [!provide]                        PROVIDE (end, .)
+
+.noinit_RAM2    0x000000002007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x000000002007c000                . = ALIGN (0x4)
+
+.noinit         0x0000000010000074        0x0
+                0x0000000010000074                _noinit = .
+ *(.noinit*)
+                0x0000000010000074                . = ALIGN (0x4)
+                0x0000000010000074                _end_noinit = .
+                [!provide]                        PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xffffffffefff74de                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x0000000000000000                _image_start = LOADADDR (.text)
+                0x0000000000000904                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000000904                _image_size = (_image_end - _image_start)
+OUTPUT(joystick.axf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0xcf8
+ .debug_info    0x0000000000000000      0x255 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x0000000000000255       0x3f ./src/crp.o
+ .debug_info    0x0000000000000294      0x717 ./src/joystick.o
+ .debug_info    0x00000000000009ab      0x34d /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_abbrev   0x0000000000000000      0x45a
+ .debug_abbrev  0x0000000000000000      0x114 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x0000000000000114       0x36 ./src/crp.o
+ .debug_abbrev  0x000000000000014a      0x208 ./src/joystick.o
+ .debug_abbrev  0x0000000000000352      0x108 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_aranges  0x0000000000000000      0x118
+ .debug_aranges
+                0x0000000000000000       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x0000000000000080       0x18 ./src/crp.o
+ .debug_aranges
+                0x0000000000000098       0x58 ./src/joystick.o
+ .debug_aranges
+                0x00000000000000f0       0x28 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_ranges   0x0000000000000000       0xd0
+ .debug_ranges  0x0000000000000000       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x0000000000000070       0x48 ./src/joystick.o
+ .debug_ranges  0x00000000000000b8       0x18 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_macro    0x0000000000000000     0x292f
+ .debug_macro   0x0000000000000000       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x000000000000001d      0xa6c ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x0000000000000a89       0x1a ./src/crp.o
+ .debug_macro   0x0000000000000aa3       0x34 ./src/crp.o
+ .debug_macro   0x0000000000000ad7       0x7e ./src/joystick.o
+ .debug_macro   0x0000000000000b55       0x1c ./src/joystick.o
+ .debug_macro   0x0000000000000b71       0x2e ./src/joystick.o
+ .debug_macro   0x0000000000000b9f       0x10 ./src/joystick.o
+ .debug_macro   0x0000000000000baf      0x12d ./src/joystick.o
+ .debug_macro   0x0000000000000cdc      0x5b2 ./src/joystick.o
+ .debug_macro   0x000000000000128e       0x18 ./src/joystick.o
+ .debug_macro   0x00000000000012a6      0x7af ./src/joystick.o
+ .debug_macro   0x0000000000001a55      0x2c7 ./src/joystick.o
+ .debug_macro   0x0000000000001d1c       0x82 ./src/joystick.o
+ .debug_macro   0x0000000000001d9e      0x12b /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000001ec9      0xa66 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_line     0x0000000000000000      0x639
+ .debug_line    0x0000000000000000       0xd3 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000000000000d3       0x79 ./src/crp.o
+ .debug_line    0x000000000000014c      0x302 ./src/joystick.o
+ .debug_line    0x000000000000044e      0x1eb /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_str      0x0000000000000000     0x9355
+ .debug_str     0x0000000000000000     0x2ecf ./src/cr_startup_lpc175x_6x.o
+                                       0x2ee2 (size before relaxing)
+ .debug_str     0x0000000000002ecf       0xe9 ./src/crp.o
+                                       0x2def (size before relaxing)
+ .debug_str     0x0000000000002fb8     0x5e67 ./src/joystick.o
+                                       0x8be1 (size before relaxing)
+ .debug_str     0x0000000000008e1f      0x536 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                                       0x88f9 (size before relaxing)
+
+.comment        0x0000000000000000       0x7e
+ .comment       0x0000000000000000       0x7e ./src/cr_startup_lpc175x_6x.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f ./src/crp.o
+ .comment       0x000000000000007e       0x7f ./src/joystick.o
+ .comment       0x000000000000007e       0x7f /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x0000000000000000       0x31
+ .ARM.attributes
+                0x0000000000000000       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x0000000000000033       0x33 ./src/crp.o
+ .ARM.attributes
+                0x0000000000000066       0x33 ./src/joystick.o
+ .ARM.attributes
+                0x0000000000000099       0x33 /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000000000000cc       0x33 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__weak__main.o)
+
+.debug_frame    0x0000000000000000      0x2c4
+ .debug_frame   0x0000000000000000      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x0000000000000170      0x118 ./src/joystick.o
+ .debug_frame   0x0000000000000288       0x3c /home/fedebos/Documents/MCUXpresso_10.2.1_795/workspace/CMSISv2p00_LPC17xx/Debug/libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
